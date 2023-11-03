@@ -1,4 +1,3 @@
-export default function User(){
-
-    return <p>User Page</p>
+export default function User() {
+  return <p>Invoices Page</p>;
 }
